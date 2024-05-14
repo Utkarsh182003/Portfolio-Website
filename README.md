@@ -25,8 +25,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## ScreenShots
 
-![Screenshot 1] (<img src = "./img/screenshots/1.JPG">)
+<img src = "./img/screenshots/1.JPG">
+
 <img src = "./img/screenshots/2.JPG">
+
 <img src = "./img/screenshots/3.JPG">
 
 
