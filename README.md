@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/screenshots/1.JPG" alt="Logo" style="width: 200px; height: auto;">
+  <img src="./img/logo.png" alt="Logo" style="width: 200px; height: auto;">
 </p>
 
 
@@ -25,6 +25,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## ScreenShots
 
-![Screenshot 1] 
+![Screenshot 1] <img src = "./img/screenshots/1.JPG">
 
 
